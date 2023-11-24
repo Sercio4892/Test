@@ -207,3 +207,4 @@ WinMain(HINSTANCE hInst, HINSTANCE hInstPrev, PSTR cmdline, int cmdshow)
 
 
 /* some comment */
+/* another comment */
